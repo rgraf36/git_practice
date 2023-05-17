@@ -1,0 +1,11 @@
+City, Country, Continent, Vacation Type
+Paris, France, Europe, City break
+Rome, Italy, Europe, City break
+Bali, Indonesia, Asia, Beach vacation
+Sydney, Australia, Oceania, City and beach
+New York, United States, North America, City break
+Barcelona, Spain, Europe, City break
+Phuket, Thailand, Asia, Beach vacation
+Tokyo, Japan, Asia, City break
+Santorini, Greece, Europe, Island vacation
+Cancun, Mexico, North America, All-inclusive resort

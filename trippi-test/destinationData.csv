@@ -1,0 +1,27 @@
+City,Country,Continent,Vacation Type,Airport Code
+Paris,France,Europe,City break,CDG
+Rome,Italy,Europe,City break,CIA
+Bali,Indonesia,Asia,Beach vacation,DPS
+Sydney,Australia,Oceania,City and beach,SYD
+New York,United States,North America,City break,JFK
+Barcelona,Spain,Europe,City break,BCN
+Phuket,Thailand,Asia,Beach vacation,HKT
+Tokyo,Japan,Asia,City break,NRT
+Santorini,Greece,Europe,Island vacation,ATH
+Cancun,Mexico,North America,All-inclusive resort,CUN
+Cusco,Peru,South America,Adventure,CUZ
+Jaipur,India,Asia,Culture,JAI
+Marrakesh,Morocco,Africa,Culture,RAK
+Kruger National Park,South Africa,Africa,Wildlife,CPT
+Cape Town,South Africa,Africa,Beach,CPT
+Queenstown,New Zealand,Australia/Oceania,Adventure,ZQN
+Rio de Janeiro,Brazil,South America,Beach,GIG
+Las Vegas,United States,North America,Entertainment,LAS
+Los Angeles,United States,North America,Beach,LAX
+Orlando,United States,North America,Theme Parks,MCO
+Miami,United States,North America,Beach,MIA
+San Francisco,United States,North America,Food & Wine,SFO
+Washington D.C.,United States,North America,History,DCA
+Chicago,United States,North America,Culture,MDW
+Honolulu,United States,North America,Beach,HNL
+New Orleans,United States,North America,Music & Culture,MSY
